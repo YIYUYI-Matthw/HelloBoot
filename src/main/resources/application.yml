@@ -1,0 +1,5 @@
+server:
+  port: 8080
+logging: # ?????debug??
+  level:
+    com.example: debug
